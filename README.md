@@ -1,5 +1,4 @@
 <div align="center">
-  <img alt="Banner" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjAxN2o4eWMydzU5a2lrajAwcWxhYjBvcWt1YjR3dzBnbDQzdDJzOWo0ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QTfX9Yz7TeSRA/giphy.gif" width="100%" />
 
   <h1>👋 Bem-vindo, eu sou Walyson Silva</h1>
   
